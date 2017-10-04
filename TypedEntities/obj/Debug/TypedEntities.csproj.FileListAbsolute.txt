@@ -1,0 +1,9 @@
+C:\Code\directions\TypedEntities\obj\Debug\TypedEntities.csprojResolveAssemblyReference.cache
+C:\Code\directions\TypedEntities\bin\Debug\TypedEntities.dll
+C:\Code\directions\TypedEntities\bin\Debug\TypedEntities.pdb
+C:\Code\directions\TypedEntities\bin\Debug\Microsoft.Crm.Sdk.Proxy.dll
+C:\Code\directions\TypedEntities\bin\Debug\Microsoft.Xrm.Sdk.dll
+C:\Code\directions\TypedEntities\bin\Debug\Microsoft.Crm.Sdk.Proxy.xml
+C:\Code\directions\TypedEntities\bin\Debug\Microsoft.Xrm.Sdk.xml
+C:\Code\directions\TypedEntities\obj\Debug\TypedEntities.dll
+C:\Code\directions\TypedEntities\obj\Debug\TypedEntities.pdb

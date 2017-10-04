@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<entities>
+  <entity>contact</entity>
+  <entity>dir_pollingstation</entity>
+  <entity>dir_vote</entity>
+</entities>
