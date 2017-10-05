@@ -18,6 +18,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DirectionsEmea.Plugins", "D
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DirectionsEmea.Plugins.Tests", "DirectionsEmea.Plugins.Tests\DirectionsEmea.Plugins.Tests.csproj", "{3D46940F-7DEB-4249-8C5F-363C893CC9DB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DirectionsEmea.CodeActivities", "DirectionsEmea.CodeActivities\DirectionsEmea.CodeActivities.csproj", "{10C9B3F9-34E6-4B0E-BD16-52379679290F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DirectionsEmea.CodeActivities.Tests", "DirectionsEmea.CodeActivities.Tests\DirectionsEmea.CodeActivities.Tests.csproj", "{03ABDB74-351F-4EDB-97DC-9FD2FEA58379}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -44,6 +48,14 @@ Global
 		{3D46940F-7DEB-4249-8C5F-363C893CC9DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3D46940F-7DEB-4249-8C5F-363C893CC9DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3D46940F-7DEB-4249-8C5F-363C893CC9DB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{10C9B3F9-34E6-4B0E-BD16-52379679290F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10C9B3F9-34E6-4B0E-BD16-52379679290F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10C9B3F9-34E6-4B0E-BD16-52379679290F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10C9B3F9-34E6-4B0E-BD16-52379679290F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{03ABDB74-351F-4EDB-97DC-9FD2FEA58379}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03ABDB74-351F-4EDB-97DC-9FD2FEA58379}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03ABDB74-351F-4EDB-97DC-9FD2FEA58379}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03ABDB74-351F-4EDB-97DC-9FD2FEA58379}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
