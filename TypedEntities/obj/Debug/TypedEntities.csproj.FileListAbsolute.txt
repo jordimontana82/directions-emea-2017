@@ -1,4 +1,3 @@
-C:\Code\directions\TypedEntities\obj\Debug\TypedEntities.csprojResolveAssemblyReference.cache
 C:\Code\directions\TypedEntities\bin\Debug\TypedEntities.dll
 C:\Code\directions\TypedEntities\bin\Debug\TypedEntities.pdb
 C:\Code\directions\TypedEntities\bin\Debug\Microsoft.Crm.Sdk.Proxy.dll

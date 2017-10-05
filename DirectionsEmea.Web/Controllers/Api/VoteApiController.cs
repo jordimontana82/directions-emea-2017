@@ -25,7 +25,7 @@ namespace DirectionsEmea.Web.Controllers.Api
         [Route("api/vote/save")]
         public GenericResult Save([FromBody] VoteViewModel model)
         {
-            var cmd = new CommandSaveVote()
+            var cmd = new CommandSaveVoteProcess()
             {
                 Model = model
             };

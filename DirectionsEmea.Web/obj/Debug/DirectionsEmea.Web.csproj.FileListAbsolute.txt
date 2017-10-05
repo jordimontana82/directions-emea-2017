@@ -84,3 +84,5 @@ C:\Code\directions\DirectionsEmea.Web\bin\System.Web.Http.WebHost.dll
 C:\Code\directions\DirectionsEmea.Web\bin\System.Net.Http.Formatting.xml
 C:\Code\directions\DirectionsEmea.Web\bin\System.Web.Http.xml
 C:\Code\directions\DirectionsEmea.Web\bin\System.Web.Http.WebHost.xml
+C:\Code\directions\DirectionsEmea.Web\bin\TypedEntities.dll
+C:\Code\directions\DirectionsEmea.Web\bin\TypedEntities.pdb

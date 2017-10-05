@@ -185,7 +185,8 @@
     <Compile Include="App_Start\FilterConfig.cs" />
     <Compile Include="App_Start\RouteConfig.cs" />
     <Compile Include="App_Start\WebApiConfig.cs" />
-    <Compile Include="Commands\CommandSaveVote.cs" />
+    <Compile Include="Commands\CommandCreateVote.cs" />
+    <Compile Include="Commands\CommandSaveVoteProcess.cs" />
     <Compile Include="Controllers\Api\VoteApiController.cs" />
     <Compile Include="Controllers\HomeController.cs" />
     <Compile Include="Controllers\VoteController.cs" />
@@ -259,6 +260,12 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="Scripts\jquery-1.10.2.min.map" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\TypedEntities\TypedEntities.csproj">
+      <Project>{0be46510-b4cc-4c2e-b529-7ee232df5609}</Project>
+      <Name>TypedEntities</Name>
+    </ProjectReference>
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
