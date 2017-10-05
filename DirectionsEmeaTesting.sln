@@ -22,6 +22,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DirectionsEmea.CodeActiviti
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DirectionsEmea.CodeActivities.Tests", "DirectionsEmea.CodeActivities.Tests\DirectionsEmea.CodeActivities.Tests.csproj", "{03ABDB74-351F-4EDB-97DC-9FD2FEA58379}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DirectionsEmea.WebService", "DirectionsEmea.WebService\DirectionsEmea.WebService.csproj", "{18A85B8F-4F80-4946-B721-BA729313CAB7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -56,6 +58,10 @@ Global
 		{03ABDB74-351F-4EDB-97DC-9FD2FEA58379}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{03ABDB74-351F-4EDB-97DC-9FD2FEA58379}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{03ABDB74-351F-4EDB-97DC-9FD2FEA58379}.Release|Any CPU.Build.0 = Release|Any CPU
+		{18A85B8F-4F80-4946-B721-BA729313CAB7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18A85B8F-4F80-4946-B721-BA729313CAB7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18A85B8F-4F80-4946-B721-BA729313CAB7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18A85B8F-4F80-4946-B721-BA729313CAB7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
