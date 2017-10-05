@@ -36,3 +36,5 @@ C:\Code\directions\DirectionsEmea.Plugins.Tests\bin\Debug\xunit.execution.deskto
 C:\Code\directions\DirectionsEmea.Plugins.Tests\obj\Debug\DirectionsEmea.Plugins.Tests.csprojResolveAssemblyReference.cache
 C:\Code\directions\DirectionsEmea.Plugins.Tests\obj\Debug\DirectionsEmea.Plugins.Tests.dll
 C:\Code\directions\DirectionsEmea.Plugins.Tests\obj\Debug\DirectionsEmea.Plugins.Tests.pdb
+C:\Code\directions\DirectionsEmea.Plugins.Tests\bin\Debug\DirectionsEmea.Plugins.dll
+C:\Code\directions\DirectionsEmea.Plugins.Tests\bin\Debug\DirectionsEmea.Plugins.pdb

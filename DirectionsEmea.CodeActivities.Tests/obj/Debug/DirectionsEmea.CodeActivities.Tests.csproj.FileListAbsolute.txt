@@ -1,0 +1,8 @@
+C:\Code\directions\DirectionsEmea.CodeActivities.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Code\directions\DirectionsEmea.CodeActivities.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Code\directions\DirectionsEmea.CodeActivities.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Code\directions\DirectionsEmea.CodeActivities.Tests\bin\Debug\DirectionsEmea.CodeActivities.Tests.dll
+C:\Code\directions\DirectionsEmea.CodeActivities.Tests\bin\Debug\DirectionsEmea.CodeActivities.Tests.pdb
+C:\Code\directions\DirectionsEmea.CodeActivities.Tests\obj\Debug\DirectionsEmea.CodeActivities.Tests.csprojResolveAssemblyReference.cache
+C:\Code\directions\DirectionsEmea.CodeActivities.Tests\obj\Debug\DirectionsEmea.CodeActivities.Tests.dll
+C:\Code\directions\DirectionsEmea.CodeActivities.Tests\obj\Debug\DirectionsEmea.CodeActivities.Tests.pdb

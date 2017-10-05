@@ -1,0 +1,4 @@
+C:\Code\directions\DirectionsEmea.CodeActivities\bin\Debug\DirectionsEmea.CodeActivities.dll
+C:\Code\directions\DirectionsEmea.CodeActivities\bin\Debug\DirectionsEmea.CodeActivities.pdb
+C:\Code\directions\DirectionsEmea.CodeActivities\obj\Debug\DirectionsEmea.CodeActivities.dll
+C:\Code\directions\DirectionsEmea.CodeActivities\obj\Debug\DirectionsEmea.CodeActivities.pdb
