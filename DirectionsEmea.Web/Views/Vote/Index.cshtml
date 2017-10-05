@@ -2,9 +2,17 @@
     ViewBag.Title = "Vote";
 }
 
+<style>
+    body {
+        background-image: url('/Content/img/background.jpg');
+        background-size: cover; /* <------ */
+        background-repeat: no-repeat;
+        background-position: center center; /* optional, center the image */
+    }
+</style>
 <div class="panel-group" style="margin-top:30px;">
     <div class="panel panel-default">
-        <div class="panel-heading">Check Vote</div>
+        <div class="panel-heading">Please, fill in your Badge ID below in order to vote...</div>
         <div class="panel-body">
             <div class="row">
                 <div class="col-md-6">
@@ -21,7 +29,7 @@
             </div>
         </div>
         <div class="panel-footer">
-            <button id="btnSave" class="btn btn-primary">Check</button>
+            <button id="btnSave" class="btn btn-primary">Save</button>
         </div>
     </div>
 </div>
