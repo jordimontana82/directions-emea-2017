@@ -15,4 +15,9 @@ namespace DirectionsEmea.Web.Models
             Success = true;
         }
     }
+
+    public class GenericResult<T>: GenericResult
+    {
+        public T Result { get; set; }
+    }
 }

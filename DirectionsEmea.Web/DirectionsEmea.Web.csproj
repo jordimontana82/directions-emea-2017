@@ -197,6 +197,9 @@
     <Compile Include="Models\GenericResult.cs" />
     <Compile Include="Models\VoteViewModel.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="ReadModels\IReadModel.cs" />
+    <Compile Include="ReadModels\ReadModelCheckContactDidntVote.cs" />
+    <Compile Include="ReadModels\ReadModelIsBadgeValid.cs" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="Content\bootstrap.css" />
