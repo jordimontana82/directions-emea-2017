@@ -1,0 +1,9 @@
+C:\Code\directions\DirectionsEmea.Plugins\bin\Debug\DirectionsEmea.Plugins.dll
+C:\Code\directions\DirectionsEmea.Plugins\bin\Debug\DirectionsEmea.Plugins.pdb
+C:\Code\directions\DirectionsEmea.Plugins\bin\Debug\Microsoft.Crm.Sdk.Proxy.dll
+C:\Code\directions\DirectionsEmea.Plugins\bin\Debug\Microsoft.Xrm.Sdk.dll
+C:\Code\directions\DirectionsEmea.Plugins\bin\Debug\Microsoft.Crm.Sdk.Proxy.xml
+C:\Code\directions\DirectionsEmea.Plugins\bin\Debug\Microsoft.Xrm.Sdk.xml
+C:\Code\directions\DirectionsEmea.Plugins\obj\Debug\DirectionsEmea.Plugins.csprojResolveAssemblyReference.cache
+C:\Code\directions\DirectionsEmea.Plugins\obj\Debug\DirectionsEmea.Plugins.dll
+C:\Code\directions\DirectionsEmea.Plugins\obj\Debug\DirectionsEmea.Plugins.pdb

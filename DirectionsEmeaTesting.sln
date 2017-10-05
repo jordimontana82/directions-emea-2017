@@ -14,6 +14,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Repo", "Repo", "{9BCD4BC1-D
 		README.md = README.md
 	EndProjectSection
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DirectionsEmea.Plugins", "DirectionsEmea.Plugins\DirectionsEmea.Plugins.csproj", "{62446EA3-BE66-4273-A3F2-824158A5A762}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DirectionsEmea.Plugins.Tests", "DirectionsEmea.Plugins.Tests\DirectionsEmea.Plugins.Tests.csproj", "{3D46940F-7DEB-4249-8C5F-363C893CC9DB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -32,6 +36,14 @@ Global
 		{0BE46510-B4CC-4C2E-B529-7EE232DF5609}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0BE46510-B4CC-4C2E-B529-7EE232DF5609}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0BE46510-B4CC-4C2E-B529-7EE232DF5609}.Release|Any CPU.Build.0 = Release|Any CPU
+		{62446EA3-BE66-4273-A3F2-824158A5A762}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62446EA3-BE66-4273-A3F2-824158A5A762}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62446EA3-BE66-4273-A3F2-824158A5A762}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62446EA3-BE66-4273-A3F2-824158A5A762}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3D46940F-7DEB-4249-8C5F-363C893CC9DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D46940F-7DEB-4249-8C5F-363C893CC9DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D46940F-7DEB-4249-8C5F-363C893CC9DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D46940F-7DEB-4249-8C5F-363C893CC9DB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
