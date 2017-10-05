@@ -9,5 +9,10 @@ namespace DirectionsEmea.Web.Models
     {
         public bool Success { get; set; }
         public string ErrorMessage { get; set; }
+
+        public GenericResult()
+        {
+            Success = true;
+        }
     }
 }

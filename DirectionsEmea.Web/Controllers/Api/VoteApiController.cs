@@ -1,4 +1,7 @@
-﻿using DirectionsEmea.Web.Models;
+﻿using DirectionsEmea.Web.Commands;
+using DirectionsEmea.Web.Infrastructure;
+using DirectionsEmea.Web.Models;
+using Microsoft.Xrm.Sdk;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -10,11 +13,23 @@ namespace DirectionsEmea.Web.Controllers.Api
 {
     public class VoteApiController : ApiController
     {
+        private IOrganizationService _service = null;
+
+        public VoteApiController()
+        {
+            if (_service == null)
+                _service = CrmServiceFactory.GetService();
+        }
+
         [HttpPost]
         [Route("api/vote/save")]
         public GenericResult Save([FromBody] VoteViewModel model)
         {
-            return new GenericResult();
+            var cmd = new CommandSaveVote()
+            {
+                Model = model
+            };
+            return cmd.Execute(_service);
         }
     }
 }

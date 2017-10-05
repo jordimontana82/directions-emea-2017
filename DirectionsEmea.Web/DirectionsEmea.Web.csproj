@@ -185,12 +185,14 @@
     <Compile Include="App_Start\FilterConfig.cs" />
     <Compile Include="App_Start\RouteConfig.cs" />
     <Compile Include="App_Start\WebApiConfig.cs" />
+    <Compile Include="Commands\CommandSaveVote.cs" />
     <Compile Include="Controllers\Api\VoteApiController.cs" />
     <Compile Include="Controllers\HomeController.cs" />
     <Compile Include="Controllers\VoteController.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
+    <Compile Include="Commands\ICrmCommand.cs" />
     <Compile Include="Infrastructure\CrmServiceFactory.cs" />
     <Compile Include="Models\GenericResult.cs" />
     <Compile Include="Models\VoteViewModel.cs" />
