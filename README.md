@@ -119,6 +119,20 @@ Please add the necessary unit tests & implement this scenario.
 
 ## Lab 103: Code Activities Unit Testing
 
+### 103.1:  Process Referendum Results
+-------------------------------------
 
+At the end of the day, we'll need to collect the referendum results, counting the number of votes, and if Yes wins, we'll invite everybody to one pint.
 
+We have outsourced that service actually so there is an external 3rd party web service we need to consume to order them.
 
+That web servie is located at /DirectionsEmea.WebService/OrderPintsForEveryoneService.svc
+
+From a unit testing perspective, we don't really care about its implementation, only that it should return true if order was creted successfully, or false otherwise.
+
+- From the codeactivity, add a new web service reference to OrderPintsForEveryoneService.svc
+
+Scenarios to test would be:
+- Count number of votes
+- If Yes wins, call the web service to create an order for 2000 people, and create a notification email to some manager.
+. If No wins, the webservice shouldn't be called.
