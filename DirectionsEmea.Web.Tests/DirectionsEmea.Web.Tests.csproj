@@ -140,6 +140,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Commands\CommandSaveVoteProcessTests.cs" />
     <Compile Include="Commands\CommandCreateVoteTests.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="ReadModels\ReadModelCheckContactDidntVoteTests.cs" />
